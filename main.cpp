@@ -27,7 +27,6 @@ int main()
         std::cout << "Противник убит!\n";
         break;
       case 4:
-        sl = &Game::save;
         game.save("savegame");
         return 0;
     }
