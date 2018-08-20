@@ -1,0 +1,14 @@
+HERO
+HP 50
+speed 5
+accuracy 5
+luck 5
+damage 4
+weapon 100
+ROBBER
+HP 10
+speed 5
+accuracy 5
+luck 2
+damage 1
+weapon 100
